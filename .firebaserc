@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "protectoresmetal",
+    "test": "protectoresmetal"
+  }
+}
